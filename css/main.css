@@ -1,0 +1,35 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: black;
+    margin: auto 0;
+    padding: 0 0 0 0;
+    height: 1000px;
+    width: 100%;
+  }
+  li {
+    color: #1e2939;
+  }
+  .f {
+    color: #075ddd;
+  }
+  img {
+    height: 150px;
+    width: 165px;
+    padding-top: 5px;
+  }
+  
+  .aboutMeContainer {
+    background-color: rgb(247, 213, 168);
+    height: 999px;
+    margin-bottom: 50px;
+  }
+  
+  aside {
+    background-color: beige;
+    margin-right: 50px;
+  
+    padding-left: 10px;
+    float: left;
+    height: 999px;
+    width: 300px;
+  }
